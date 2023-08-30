@@ -4,6 +4,6 @@
 
 ![oedumoura GitHub stats](https://github-readme-stats.vercel.app/api?username=oedumoura&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oedumoura&langs_count=8)
 
 ### 
